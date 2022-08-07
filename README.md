@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontEnd Mentor solution](https://your-solution-url.com)
-- Live Site URL: [View on browser](https://your-live-site-url.com)
+- Live Site URL: [View on browser](https://artur-neri.github.io/Order-summary-component/)
 
 ## My process
 
